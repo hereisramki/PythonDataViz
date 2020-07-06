@@ -17,8 +17,11 @@ CREATE TABLE `table1`(
 `Date` TEXT
 )
 
-** If any problem arises change the type of `Age` as INTEGER
+** If any problem arises change the type of `Age` as INTEGER **
 
+
+**NOTE
+Install all required Library
 I have written the code to get the following "Entry Id, Age, Gender, City, State, Date of report" of the patient.
 If you want some more info, you can edit the code.
  
